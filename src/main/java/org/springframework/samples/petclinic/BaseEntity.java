@@ -11,7 +11,7 @@ public interface BaseEntity {
 
     public void setId(Integer id);
 
-    public Integer ;
+    public Integer getId();
 
     public boolean isNew();
 

@@ -7,7 +7,7 @@ package org.springframework.samples.petclinic;
  * @author Ken Krebs
  */
 public interface Person extends BaseEntity {
-    public String getFirstName();
+    public String ();
 
     public void setFirstName(String firstName);
 
